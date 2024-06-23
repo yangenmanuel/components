@@ -1,0 +1,56 @@
+.logo {
+  width: 132px;
+  height: 132px;
+}
+
+.title {
+  margin: 0 15px;
+  font-weight: 700;
+  font-family: "Roboto";
+  font-size: 23px;
+  text-align: center;
+}
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #fff;
+  border-radius: 4px;
+  padding: 10px 0;
+  padding-left: 10px;
+  margin: 0 26px;
+  margin-top: 31px;
+}
+
+.label {
+  color: #fff;
+  font-family: "Roboto";
+}
+
+.input {
+  background: none;
+  border: none;
+}
+
+.btnWrapper {
+  margin-top: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 26px;
+}
+
+.link {
+  color: #1D9BF0;
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.btn {
+  font-weight: 700;
+  font-size: 17px;
+  padding: 16px 0;
+  width: 139px;
+}

@@ -1,0 +1,69 @@
+.containerPad {
+  padding-top: 80px;
+}
+
+.title {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 31px;
+}
+
+.inputWrapper {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-left: 31px;
+  margin-right: 44px;
+}
+
+.input {
+  background: #0E1152;
+  border: none;
+  padding: 10px 0;
+  padding-left: 10px;
+  color: #fff;
+}
+
+.input::placeholder {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.selectWrapper {
+  margin-top: 152px;
+  margin-left: 27px;
+}
+
+.select {
+  background: #0E1152;
+  border: none;
+  color: #757575;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size:15px;
+  padding: 10px 5px;
+}
+
+.month {
+  margin-right: 28px;
+}
+
+.day {
+  margin-right: 23px;
+  width: 77px;
+}
+
+.btn {
+  margin: 0 auto;
+  font-weight: 700;
+  width: 139px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 139px;
+  padding: 16px 0;
+  font-size: 16px;
+}

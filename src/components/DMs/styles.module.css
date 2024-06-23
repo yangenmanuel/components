@@ -1,0 +1,61 @@
+.header {
+  background: #161B5E;
+  padding: 10px 20px;
+  padding-bottom: 23px;
+}
+
+.headerWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pfp {
+  width: 38px;
+  height: 42px;
+  border-radius: 100px;
+  object-fit: cover;
+}
+
+.settings {
+  width: 29px;
+  height: 31px;
+}
+
+.searchWrapper {
+  display: flex;
+  align-items: center;
+  background: #DADCE0;
+  border-radius: 9999px;
+  padding: 10px 0;
+  margin-top: 14px;
+}
+
+.inpt {
+  background: #DADCE0;
+  border: none;
+  width: 200px;
+}
+
+.inpt::placeholder {
+  color: #000;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+.search {
+  margin-left: 45px;
+  margin-right: 22px;
+}
+
+.title {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.dms {
+  max-height: 620px;
+  overflow-y: scroll;
+  margin-left: 10px;
+}

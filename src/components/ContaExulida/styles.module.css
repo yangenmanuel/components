@@ -1,0 +1,27 @@
+.logo {
+  width: 154px;
+  height: 139px;
+  border-radius: 90px;
+  margin-top: 34px;
+  margin-bottom: 43px;
+}
+
+.title {
+  font-size: 32px;
+}
+
+.text {
+  font-weight: 300;
+  font-family: "Roboto";
+  font-size: 12px;
+  margin-top: 80px;
+  margin-left: 37px;
+  margin-right: 27px;
+  line-height: 20px;
+}
+
+.btn {
+  font-weight: 700;
+  font-size: 16px;
+  padding: 16px 0;
+}

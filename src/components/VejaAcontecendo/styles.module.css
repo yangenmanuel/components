@@ -1,0 +1,78 @@
+.logo {
+  width: 148px;
+  height: 126px;
+  margin-top: 34px;
+  border-radius: 90px;
+}
+
+.title {
+  font-family: "Rokkitt";
+  text-align: left;
+  margin: 0 58px;
+  margin-top: 67px;
+  font-size: 30px;
+  line-height: .7;
+}
+
+.signWrapper {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.btnSign {
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  align-items: center;
+  width: 300px;
+  margin: 0 auto;
+  padding: 12px 0;
+  text-decoration: none;
+  border-radius: 9999px;
+}
+
+.signText {
+  color: #000;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.createAcc {
+  margin-top: 84px;
+  color: #000;
+  font-weight: 700;
+  font-size: 15px;
+  font-family: "Roboto";
+}
+
+.text {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 13px;
+  margin-left: 44px;
+  margin-right: 24px;
+  line-height: 1.4;
+  margin-top: 26px;
+}
+
+.blue {
+  color: #1D9BF0;
+}
+
+.linkWrapper {
+  margin-top: 80px;
+}
+
+.link {
+  color: #fff;
+  font-weight: 200;
+  font-size: 12px;
+  font-family: "Roboto";
+  text-decoration: none;
+  margin-left: 45px;
+}

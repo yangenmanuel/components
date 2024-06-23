@@ -1,0 +1,17 @@
+.nav {
+  background: #161B5E;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}

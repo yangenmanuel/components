@@ -1,0 +1,46 @@
+.title {
+  font-weight: 800;
+  margin-top: 20px;
+  line-height:30px;
+  font-size: 25px;
+  margin-bottom: 35px;
+  margin-right: 32px;
+  margin-left: 32px;
+}
+
+.text {
+  font-weight: 300;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 20px;
+  margin: 32px 32px;
+}
+
+.subtitle {
+  font-weight: 700;
+}
+
+.littleText {
+  font-size: 14px;
+  font-weight: 300;
+  font-family: "Roboto";
+  margin: 0 32px;
+}
+
+.logo {
+  width: 98px;
+  height: 87px;
+  border-radius: 90px;
+  margin-top: 16px;
+}
+
+.support {
+  color: #1D9BF0;
+}
+
+.btn {
+  padding: 10px 0;
+  font-weight: normal;
+  font-size: 17px;
+  font-weight: 700;
+}

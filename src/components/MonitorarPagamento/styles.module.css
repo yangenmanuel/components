@@ -1,0 +1,46 @@
+.logo {
+  width: 73px;
+  height: 67px;
+  border-radius: 90px;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 13px;
+}
+
+.containerPad {
+  padding-top: 16px;
+}
+
+.title {
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.blue {
+  color: #4285F4;
+}
+
+.subtitle {
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: 700;
+  margin: 0 33px;
+  margin-top: 40px;
+  line-height: 23px;
+}
+
+.btnWrapper {
+  margin-top: 200px;
+}
+
+.btn {
+  padding: 16px 0;
+  font-size: 17px;
+  font-weight: 700;
+}

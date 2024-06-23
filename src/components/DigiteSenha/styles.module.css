@@ -1,0 +1,67 @@
+.logo {
+  width: 133px;
+  height: 127px;
+  margin-top: 38px;
+  border-radius: 90px;
+}
+
+.title {
+  font-size: 29px;
+  margin-left: 31px;
+  margin-right: 50px;
+  text-align: start;
+  line-height: 35px;
+  margin-top: 30px;
+  margin-bottom: 44px;
+}
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 31px;
+}
+
+.label {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 200;
+  font-family: "Roboto";
+  margin-bottom: 6px;
+  margin-left: 15px;
+}
+
+.input {
+  height: 25px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+
+.btnWrapper {
+  margin: 0 auto;
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 61px;
+  margin-left: 40px;
+}
+
+.link {
+  font-family: "Roboto";
+  color: #fff;
+  text-decoration: none;
+  font-weight: 200;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.btn {
+  padding: 16px 0;
+  font-weight: 700;
+  font-size: 17px;
+  /* width: 139px; */
+}

@@ -1,0 +1,115 @@
+.bgGray {
+  background-color: #efefef !important;
+}
+
+.blur {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 0;
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+  backdrop-filter: blur(15px);
+}
+
+.user {
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 90px;
+}
+
+.name {
+  font-weight: 700;
+  font-family: "Inter";
+  color: #000;
+  margin-top: 8px;
+}
+
+.msgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  max-height: 620px;
+  overflow: auto;
+}
+
+.msg {
+  width: 300px;
+  background: #fff;
+  border-radius: 20px;
+  padding: 10px 10px;
+  position: relative;
+}
+
+.msgInfo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.pfp {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 90px;
+}
+
+.contentImg {
+  border-radius: 10px;
+}
+
+.sender {
+  font-weight: 700;
+  font-family: "Inter";
+}
+
+.date {
+  font-family: "Inter";
+  font-size: 14px;
+}
+
+.contentImg {
+  height: 277px;
+  width: 277px;
+  object-fit: cover;
+}
+
+.msg::after {
+  content: "16:45 Enviado";
+  font-family: "Inter";
+  font-size: 12px;
+  position: absolute;
+  bottom: -20px;
+  right: 10px;
+}
+
+.separator {
+  color: #000;
+  font-weight: 700;
+  font-family: "Inter";
+  margin: 60px 0;
+  margin-right: 100px;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  height: 46px;
+  background: #d5d5d5;
+  padding: 0 8px;
+  gap: 15px;
+}
+
+.input {
+  background: #d5d5d5;
+  border: none;
+  margin-right: 60px;
+}
+
+.input::placeholder {
+  font-family: "Inter";
+  font-weight: 700;
+}

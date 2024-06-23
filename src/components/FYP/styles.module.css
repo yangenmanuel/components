@@ -1,0 +1,67 @@
+.opts {
+  background: #eaeaea;
+  display: flex;
+  justify-content: space-around;
+  font-family: "Roboto";
+  font-weight: 700;
+  padding-top: 14px;
+}
+
+.fy {
+  border-bottom: 4px solid #1D9BF0;
+}
+
+.posts {
+  max-height: 620px;
+  overflow: auto;
+}
+
+.post {
+  margin-left: 15px;
+  margin-top: 20px;
+  display: flex;
+}
+
+.user {
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+  border-radius: 100px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "Roboto";
+}
+
+.name {
+  font-weight: 700;
+}
+
+.post {
+  gap: 8px;
+}
+
+.text {
+  margin-top: 8px;
+  color: #000;
+  font-family: "Roboto";
+}
+
+.img {
+  margin-top: 8px;
+  border-radius: 10px;
+}
+
+.info {
+  display: flex;
+  gap: 60px;
+}
+
+.coms {
+  font-family: "Roboto";
+  display: flex;
+  align-items: center;
+}

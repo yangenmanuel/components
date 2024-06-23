@@ -1,0 +1,80 @@
+.logo {
+  width: 118px;
+  height: 106px;
+  border-radius: 90px;
+}
+
+.containerPad {
+  padding-top: 18px;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-weight: 200;
+  font-size: 15px;
+  margin-left: 15px;
+}
+
+.title {
+  margin-top: 40px;
+  text-align: left;
+  margin-left: 23px;
+  font-size: 29px;
+}
+
+.subtitle {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 39px;
+  margin-right: 90px;
+  margin-top: 25px;
+  line-height: 1.2;
+}
+
+.card {
+  background: #3C3E40;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-left: 23px;
+  margin-right: 28px;
+}
+
+.cardTitle {
+  font-family: "Inter";
+  color: #fff;
+  font-weight: 800;
+  font-size: 16px;
+  margin-left: 16px;
+}
+
+.cardText {
+  font-weight: 400;
+  font-size: 15px;
+  font-family: "Inter";
+  margin: 0 8px;
+  margin-top: 15px;
+}
+
+.btnWrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 16px;
+  gap: 5px;
+}
+
+.cardBtn {
+  color: #4285F4;
+  text-decoration: none;
+  font-family: "Inter";
+  font-weight: 800;
+  font-size: 16px;
+}
